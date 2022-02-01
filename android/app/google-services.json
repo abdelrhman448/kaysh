@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "353236632386",
+    "firebase_url": "https://kyash-79079-default-rtdb.firebaseio.com",
+    "project_id": "kyash-79079",
+    "storage_bucket": "kyash-79079.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353236632386:android:318c97bfd2cc43306b7edb",
+        "android_client_info": {
+          "package_name": "com.example.kayish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353236632386-jgr34n8mfsl2a3crdke2me1v6re7614t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kayish",
+            "certificate_hash": "4af564b9a95996203a28144900dec65f3452dd76"
+          }
+        },
+        {
+          "client_id": "353236632386-qp16uiv4f2jpgmk515qbmsk5229lc5rp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsNZ9juHKT9dpNlwMr0331q6W1UG-Ek3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353236632386-qp16uiv4f2jpgmk515qbmsk5229lc5rp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
